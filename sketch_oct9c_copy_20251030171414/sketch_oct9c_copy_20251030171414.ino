@@ -8,9 +8,9 @@
 using namespace websockets;
 
 // ---------------- Wi-Fi ----------------
-const char* ssid = "Nstation 2";
-const char* password = "alkalium";
-const char* websocketServer = "ws://10.77.175.73:8000/ws/esp"; // Replace with your server IP
+const char* ssid = "The Rider Aadi ";
+const char* password = "papajiii";
+const char* websocketServer = "ws://10.114.69.73:8000/ws/esp"; // Replace with your server IP
 
 WebsocketsClient client;
 
